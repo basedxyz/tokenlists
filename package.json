@@ -1,0 +1,18 @@
+{
+  "name": "tokenlists",
+  "version": "1.0.0",
+  "description": "The official tokenlist of the based app.",
+  "main": "superchain-token-list-8453.json",
+  "files": [
+    "superchain-token-list-8453.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "based",
+    "tokenlists"
+  ],
+  "author": "JD",
+  "license": "MIT"
+}
