@@ -1,5 +1,5 @@
 {
-  "name": "tokenlists",
+  "name": "@basedxyz/tokenlists",
   "version": "1.0.0",
   "description": "The official tokenlist of the based app.",
   "main": "superchain-token-list-8453.json",
