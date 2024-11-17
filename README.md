@@ -9,3 +9,8 @@ A more sophistacted process on how to add tokens will be put into place soon.
 ```bash
 npm install @basedxyz/tokenlists
 ```
+
+## Xcode setup
+
+* Add package dependency: https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app
+* Using this repo's url: https://github.com/basedxyz/tokenlists
