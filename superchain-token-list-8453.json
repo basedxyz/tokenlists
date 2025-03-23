@@ -2130,6 +2130,19 @@
     },
     {
       "chainId": 8453,
+      "address": "0x3D1D651761D535Df881740AB50Ba4BD8a2EC2C00",
+      "name": "Synthesizer Dog",
+      "symbol": "SYNDOG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51577/large/SYNDOG_LOGO.png",
+      "extensions": {
+        "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "SYNDOG"
+      }
+    },
+    {
+      "chainId": 8453,
       "address": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4",
       "name": "Toshi",
       "symbol": "TOSHI",
