@@ -2130,6 +2130,19 @@
     },
     {
       "chainId": 8453,
+      "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29837/large/Morpho-token-icon.png",
+      "extensions": {
+        "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "MORPHO"
+      }
+    },
+    {
+      "chainId": 8453,
       "address": "0x3D1D651761D535Df881740AB50Ba4BD8a2EC2C00",
       "name": "Synthesizer Dog",
       "symbol": "SYNDOG",
