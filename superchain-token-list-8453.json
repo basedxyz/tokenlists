@@ -2156,6 +2156,19 @@
     },
     {
       "chainId": 8453,
+      "address": "0x729031B3995538DDF6B6BcE6E68D5D6fDEb3CCB5",
+      "name": "Riky The Raccoon",
+      "symbol": "RIKY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37438/large/logo_200x.png",
+      "extensions": {
+        "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "RIKY"
+      }
+    },
+    {
+      "chainId": 8453,
       "address": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4",
       "name": "Toshi",
       "symbol": "TOSHI",
