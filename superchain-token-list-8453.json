@@ -161,6 +161,19 @@
     },
     {
       "chainId": 8453,
+      "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
+      "extensions": {
+        "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "cbBTC"
+      }
+    },
+    {
+      "chainId": 8453,
       "address": "0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d",
       "name": "CryptoOracle Collective",
       "symbol": "COC",
